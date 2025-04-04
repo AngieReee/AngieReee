@@ -57,7 +57,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="50" height="38" alt="telegram logo"  />
   </a>
   
-  <a href="asuhareva@gmail.com" target="_blank">
+  <a href="mailto:asuhareva@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="38" alt="gmail logo"  />
   </a>
   
