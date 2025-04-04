@@ -3,19 +3,19 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="right">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">I'm Angelika from Nizhny Novgorod, Russia<br><br>- 🔭 I’m working as student<br>- 📚 I'm currently learning C# and dotnet</p>
+<p align="right">I'm Angelika from Nizhny Novgorod, Russia<br><br>- 🔭 I’m working as student<br>- 📚 I'm currently learning C# and dotnet</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="right">🛠 Language and tools</h3>
 
 ###
 
-<div align="left">
+<div align="right">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
@@ -29,7 +29,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="right">🔥   My Stats :</h3>
 
 ###
 
@@ -42,16 +42,16 @@
 
 ###
 
-<h3 align="left">📱  Social Networks:</h3>
+<h3 align="right">📱  Social Networks:</h3>
 
 ###
 
-<div align="left">
+<div align="right">
 </div>
 
 ###
 
-<div align="left">
+<div align="right">
   
   <a href="https://t.me/AngieeRee" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="50" height="38" alt="telegram logo"  />
